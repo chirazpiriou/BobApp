@@ -47,7 +47,7 @@ jobs:
           projectBaseDir: front
           args: >
             -Dsonar.organization=chiraz-dev
-            -Dsonar.projectKey=chiraz-dev_BobApp_frontend
+            -Dsonar.projectKey=chiraz-dev_bobapp_frontend
             -Dsonar.sources=src/
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN_FRONTEND }}
