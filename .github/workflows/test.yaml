@@ -40,3 +40,6 @@ jobs:
         with:
           name: Karma Reports
           path: front/coverage/bobapp
+
+
+          
